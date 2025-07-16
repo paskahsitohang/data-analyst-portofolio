@@ -8,5 +8,3 @@ This portfolio showcases my hands-on projects using **SQL, Excel, Power BI, and 
 ## Project Highlights
 
 ### 1. [SQL Analysis](./sql-analyst/)
-Analyze rental data from the Sakila database using MySQL.  
-Includes analysis of customer behavior, film popularity, revenue trends, and late returns.
