@@ -1,0 +1,5 @@
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) for all SQL scripts written by the author.
+
+The Sakila sample database is provided under [GPL v2 License](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) by MySQL/Oracle.
