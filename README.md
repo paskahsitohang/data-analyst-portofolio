@@ -8,3 +8,8 @@ This portfolio showcases my hands-on projects using **SQL, Excel, Power BI, and 
 ## Project Highlights
 
 ### 1. [SQL Analysis](./sql-analyst/)
+
+## Contact Me
+
+- LinkedIn: [linkedin.com/in/paskahsitohang](https://www.linkedin.com/in/paskahsitohang)
+- Email: paskahsitohang.work@email.com
