@@ -1,0 +1,9 @@
+---
+
+## 📂 Dataset Attribution
+
+This project uses the sample database `world.sql` provided by MySQL.
+
+The `world` dataset is released into the **public domain** and is free to use for educational and testing purposes.
+
+Source: [MySQL Sample Databases](https://dev.mysql.com/doc/index-other.html)
