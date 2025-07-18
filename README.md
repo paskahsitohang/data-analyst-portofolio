@@ -8,6 +8,9 @@ This portfolio showcases my hands-on projects using **SQL, Excel, Power BI, and 
 ## Project Highlights
 
 ### 1. [SQL Analysis](./sql-analyst/)
+### 2. [Excel Analysis](./excel-analyst/)
+
+---
 
 ## Contact Me
 
