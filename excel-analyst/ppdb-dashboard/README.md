@@ -15,4 +15,27 @@ This project contains a dynamic Excel-based dashboard to analyze student registr
 
 ---
 
-## 📂 File Structure
+## 📸 Dashboard Preview
+
+![Dashboard Preview](screenshots/Dashboard_Overview.jpg)
+
+## 🧠 Tools & Techniques Used
+
+- Microsoft Excel 2019
+- PivotTable, COUNTIF, AVERAGE, INDEX-MATCH array formulas
+- Conditional Formatting
+- Custom KPI design layout
+
+---
+## 🔗 Live Demo (Google Sheets Version)
+
+[👉 View PPDB Dashboard Online](https://docs.google.com/spreadsheets/d/1M91ffnF-P9HkoQHV0C3wMAnFh9PUDhYT/edit?usp=drive_link&ouid=105005055923885556495&rtpof=true&sd=true)
+(*view-only mode, shared publicly for demonstration purposes*)
+
+---
+
+## 👤 Author
+
+**Paskah Sitohang**  
+📫 [LinkedIn](https://linkedin.com/in/paskahsitohang)  
+📁 [GitHub Portfolio](https://github.com/paskahsitohang/data-analyst-portofolio)
