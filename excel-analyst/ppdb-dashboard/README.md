@@ -17,7 +17,7 @@ This project contains a dynamic Excel-based dashboard to analyze student registr
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](.screenshots/Dashboard_Overview.jpg)
+![Dashboard Preview](screenshot/Dashboard_Overview.jpg)
 
 ## 🧠 Tools & Techniques Used
 
