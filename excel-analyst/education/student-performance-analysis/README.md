@@ -64,7 +64,7 @@ This project analyzes a dataset of student academic performance to identify key 
 
 > **Tools used:** Excel 365 (Pivot Table, Conditional Formatting, Charts)
 
-![Dashboard Full Preview](./dashboard/dashboard-overview.JPG)
+![Dashboard Full Preview](./dashboard)
 
 ---
 
