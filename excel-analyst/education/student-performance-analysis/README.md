@@ -1,6 +1,6 @@
 # 🎓 Student Performance Analysis
 
-![Dashboard Screenshot](dashboard-overview.JPG)
+![Dashboard Screenshot](./dashboard/dashboard-overview.JPG)
 
 ## 📌 Project Overview
 This project analyzes a dataset of student academic performance to identify key factors that influence scores in math, reading, and writing. The dataset is sourced from Kaggle and contains demographic, socioeconomic, and academic data for 1,000 students.
@@ -64,7 +64,7 @@ This project analyzes a dataset of student academic performance to identify key 
 
 > **Tools used:** Excel 365 (Pivot Table, Conditional Formatting, Charts)
 
-![Dashboard Full Preview](dashboard-overview.JPG)
+![Dashboard Full Preview](./dashboard/dashboard-overview.JPG)
 
 ---
 
