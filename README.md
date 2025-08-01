@@ -9,7 +9,7 @@ This portfolio showcases my hands-on projects using **SQL, Excel, Power BI, and 
 
 ### 1. [SQL Analysis](./sql-analyst/)
 ### 2. [Excel Analysis](./excel-analyst/)
-##  2.1. [Education Analysis](./excel-analyst/education/)
+- ### [Education Performance](./excel-analyst/education/)
 
 ---
 
